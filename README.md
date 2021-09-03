@@ -12,4 +12,4 @@ GameCo executives are specifically interested in these questions:
 ##### Tools: 
 Excel
 ##### Dataset: 
-VGChartz website available [here](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+VGChartz [website](http://www.vgchartz.com/), link to data [here](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
