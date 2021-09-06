@@ -1,5 +1,3 @@
-# Excel_video_game_market_analysis
-
 #### Objective: 
 Perform a descriptive analysis of video game data to answer key questions for Gameco executives and help them better understand the video game market.
 
